@@ -1,5 +1,5 @@
 # CLeftTabCtrl
-Tab control(CTabCtrl) on the left and horizontal text
+Tab control(CTabCtrl) on the left and horizontal text. <br>
 I use this class to create a dialog box with the initial settings.
 
 Result:
